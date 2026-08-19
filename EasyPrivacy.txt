@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608191244
+! Version: 202608191826
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2026 12:44 UTC
+! Last modified: 19 Aug 2026 18:26 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5098de474e55c1385c6eb8157524a6b06f8e5d11
+! Commit: 5066cf5b0a1c94fa14c163101ddf50ea693b8f11
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7658,6 +7658,7 @@ omni.soundestlink.com$image
 ||hazmatworkshop.com^
 ||headydegree.com^
 ||healflowers.com^
+||healthyclad.com^
 ||heartbreakingmind.com^
 ||hearthow.com^
 ||heavydetail.com^
@@ -7699,6 +7700,7 @@ omni.soundestlink.com$image
 ||hospitablehall.com^
 ||hospitablehat.com^
 ||howdoesthislook.com^
+||hubcapcafe.net^
 ||humbleroots.net^
 ||humdrumhobbies.com^
 ||humdrumtouch.com^
@@ -7830,6 +7832,7 @@ omni.soundestlink.com$image
 ||lazypecan.com^
 ||leafpilot.com^
 ||leaplunchroom.com^
+||leapquick.com^
 ||leftliquid.com^
 ||lemonsandjoy.com^
 ||lessonsnetwork.com^
@@ -7865,6 +7868,7 @@ omni.soundestlink.com$image
 ||looseunits.com^
 ||lorenzourban.com^
 ||losslace.com^
+||lostwaxlab.com^
 ||loudlunch.com^
 ||lovelydrum.com^
 ||loveseashore.com^
