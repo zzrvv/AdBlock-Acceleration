@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I2kPcyGFUjmfu5VdkS64fQ
-! Version: 202608230112
+! Checksum: CB+K2IeZ3iIQef108PCYZw
+! Version: 202608230632
 ! Title: Fanboy's Social Blocking List
-! Last modified: 23 Aug 2026 01:12 UTC
+! Last modified: 23 Aug 2026 06:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11573,6 +11573,7 @@ cryptodaily.co.uk##.s-video-h
 techgenyz.com##.s_so
 sabcsport.com##.sabc_footer_btm_social
 sabcsport.com##.sabc_social_box
+san.com##.san-share-button
 sordum.org##.sbar_social_div
 sasktoday.ca##.sc-expanded
 radio-canada.ca##.sc-sa6od2-0
