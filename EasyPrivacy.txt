@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608251236
+! Version: 202608251828
 ! Title: EasyPrivacy
-! Last modified: 25 Aug 2026 12:36 UTC
+! Last modified: 25 Aug 2026 18:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 20eda3683182671e5aa77245fd5bf79bc319048e
+! Commit: 24cf7e17e2414b19f7b23e71bda25dfba0914667
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1255,7 +1255,6 @@
 /ibeat.min.js
 /icf-analytics.js
 /id?d_visid_
-/identity/token/verify?browser_id=
 /if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
@@ -6803,6 +6802,7 @@ omni.soundestlink.com$image
 ||arclet.net^
 ||aromamirror.com^
 ||arrivegrowth.com^
+||artbranch.net^
 ||articledemon.com^
 ||arubahello.com^
 ||askdriver.com^
@@ -6819,6 +6819,7 @@ omni.soundestlink.com$image
 ||attractionbanana.com^
 ||attractivecap.com^
 ||audioarctic.com^
+||autoappearancetraining.com^
 ||automaticside.com^
 ||automaticturkey.com^
 ||availablerest.com^
@@ -6882,6 +6883,7 @@ omni.soundestlink.com$image
 ||betazebra.com^
 ||bewilderedbattle.com^
 ||bewilderedblade.com^
+||beyondgoodness.com^
 ||bhcumsc.com^
 ||bidpapers.com^
 ||bigfishapparel.com^
@@ -6913,6 +6915,7 @@ omni.soundestlink.com$image
 ||blitzcampaigns.com^
 ||blockdial.com^
 ||bloomsend.com^
+||bluecollarmuse.com^
 ||blueeyedblow.com^
 ||bluelionlabs.net^
 ||bluenest.net^
