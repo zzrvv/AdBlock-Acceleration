@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: InICW4AhoIg5dSYohH9PJA
-! Version: 202608250642
+! Checksum: 0/WmV9wAS8CPOHMuCGkwZQ
+! Version: 202608251232
 ! Title: Fanboy's Social Blocking List
-! Last modified: 25 Aug 2026 06:42 UTC
+! Last modified: 25 Aug 2026 12:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -12190,6 +12190,7 @@ stuff.co.nz##[data-testid="body-cta"]
 pcgamer.com##[data-testid="buttons-social"]
 nytimes.com##[data-testid="social-group"]
 codecademy.com##[data-testid="social-share-dropdown"]
+lseg.com##[data-title="Connect with us"]
 dw.com##[data-tracking-name="footer-section-social-media"]
 dw.com##[data-tracking-name^="sharing-icons-"]
 axios.com##[data-vars-event-name="preferred_source_view"]
