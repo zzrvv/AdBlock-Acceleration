@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608290556
+! Version: 202608291611
 ! Title: EasyPrivacy
-! Last modified: 29 Aug 2026 05:56 UTC
+! Last modified: 29 Aug 2026 16:11 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 5ed48f3e3864f09911b20df1b4d496063610886d
+! Commit: 2f13cf4e5d28c61956e90a8261c60c79434be3a8
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -1557,6 +1557,7 @@
 /mediateGA.js
 /megacounter.php
 /mendelstats.js
+/metaPixelTracker.js
 /metatraffic/track.asp?
 /metric/?mid=
 /metric/?wid=
