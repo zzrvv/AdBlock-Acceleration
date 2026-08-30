@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202608300406
+! Version: 202608301113
 ! Title: EasyPrivacy
-! Last modified: 30 Aug 2026 04:06 UTC
+! Last modified: 30 Aug 2026 11:13 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 7b37938a85a690f71bf43bcddd463398dc8aa8d5
+! Commit: c2c467bfb5d933d9c7afda62bc32da865e508442
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -12459,6 +12459,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||referrer.disqus.com^
 ||reflow.tv/pixels/
 ||register.boostymark.com/a/reg
+||reibootmac.com/script/rn_event_track_v2.min.js
 ||rejoiner.com/tracker/
 ||relaymedia.com/ping?$third-party
 ||removeads.workers.dev^
@@ -14039,6 +14040,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alicdn.com/tkapi/click.js
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
+||analytics.afirstsoft.cn^
 ||analytics.meituan.net^
 ||atanx.alicdn.com^
 ||atom-log.3.cn^
