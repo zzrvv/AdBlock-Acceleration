@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609031543
+! Version: 202609032031
 ! Title: EasyPrivacy
-! Last modified: 03 Sep 2026 15:43 UTC
+! Last modified: 03 Sep 2026 20:31 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 65034e4d363385d513fa54406724218948db113b
+! Commit: 7b50f2ac99e85d601f4e88885bdda7da913a8300
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8463,6 +8463,7 @@ omni.soundestlink.com$image
 ||royalrabbit.net^
 ||royalsbagels.com^
 ||royalsweeper.com^
+||rubouthunger.com^
 ||rubyswinehouse.com^
 ||ruralrobin.com^
 ||rusticfrench.com^
@@ -8473,6 +8474,7 @@ omni.soundestlink.com$image
 ||sablesong.com^
 ||sadloaf.com^
 ||saffronrefuge.com^
+||sagetrack.net^
 ||saladbarrel.com^
 ||saladfuel.com^
 ||salmonfin.com^
@@ -53746,7 +53748,6 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||cltr.willhaben.at^
 ||cmp2.channelpartner.de^
 ||cnt.wetteronline.de^
-||collector.orf.at^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/analytics
 ||computerbase.de/api2/$ping,xmlhttprequest
