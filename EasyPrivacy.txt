@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609041543
+! Version: 202609042023
 ! Title: EasyPrivacy
-! Last modified: 04 Sep 2026 15:43 UTC
+! Last modified: 04 Sep 2026 20:23 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 19cd10378dcda55651f5807abae9c836ffaf9dce
+! Commit: 75069fac758ecbe54bf2e43aa81235820f6d5c36
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8718,6 +8718,7 @@ omni.soundestlink.com$image
 ||specialscissors.com^
 ||specialtypin.com^
 ||spectacularstamp.com^
+||speedmethod.com^
 ||speedysteaks.com^
 ||spellingthoughts.com^
 ||spellknight.com^
@@ -8772,6 +8773,7 @@ omni.soundestlink.com$image
 ||starrynets.com^
 ||starsmarter.com^
 ||startercost.com^
+||starwinmedia.com^
 ||statshunt.com^
 ||statuesqueship.com^
 ||statusinside.com^
@@ -8780,6 +8782,7 @@ omni.soundestlink.com$image
 ||steadfastsound.com^
 ||steadfastsystem.com^
 ||stealsteel.com^
+||steelcasket.com^
 ||steelmaiden.com^
 ||steepsister.com^
 ||steepsquirrel.com^
