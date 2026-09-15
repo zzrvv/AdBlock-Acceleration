@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609150346
+! Version: 202609151114
 ! Title: EasyPrivacy
-! Last modified: 15 Sep 2026 03:46 UTC
+! Last modified: 15 Sep 2026 11:14 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 4b3c0750094bdc1b1049ace0325479c0697d4439
+! Commit: 33f5f27a63c60a70e20c3b595d115e2627619a22
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8346,6 +8346,7 @@ omni.soundestlink.com$image
 ||queenskart.com^
 ||questionate.com^
 ||quicklyedit.com^
+||quicktattoo.com^
 ||quicktrick.net^
 ||quietknowledge.com^
 ||quillkick.com^
@@ -55444,6 +55445,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||tanks.lv/top/stats.php
 ! Lithuanian
 ||15min.lt/cached/tgif$~third-party
+||api.lrt.lt/pagd/sirens
 ||g.delfi.lt/g.js
 ||lrytas.lt/counter/
 ! Malaysian
