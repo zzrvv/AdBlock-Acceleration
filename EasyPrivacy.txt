@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609160342
+! Version: 202609161054
 ! Title: EasyPrivacy
-! Last modified: 16 Sep 2026 03:42 UTC
+! Last modified: 16 Sep 2026 10:54 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 18943ec079b5c3ecf3fb8eeb01f61972238b7854
+! Commit: 956980ccd7941cf66e37f630aae6d9b9f5548670
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -276,6 +276,7 @@
 /analytics-reporter/*
 /analytics-sdk.
 /analytics-secure.js
+/analytics-talk-content-tracking.
 /analytics-tracker/*
 /analytics-tracking.js
 /analytics-worker.iife.js
@@ -1188,6 +1189,7 @@
 /gtm.js
 /gtm.min.js
 /gtm/gtm-
+/gtm4wp-$script
 /gtmDataLayer.js
 /gtmTracking.js
 /gv-analytics/riveted.js
@@ -1878,7 +1880,6 @@
 /plugins/affiliate-wp/assets/js/tracking.min.js
 /plugins/catman/*
 /plugins/civic-science/js/pixel.js
-/plugins/duracelltomi-google-tag-manager/*
 /plugins/exactmetrics-
 /plugins/nimiq/*$script
 /plugins/nsmg-tracking/*
@@ -2031,6 +2032,7 @@
 /retargeting-pixels.php
 /revinit.js
 /rgea.min.js
+/ria.analytics.js
 /risk_fp_log?
 /riveted.min.js
 /rivraddon.js
@@ -6851,6 +6853,7 @@ omni.soundestlink.com$image
 ||barkfactor.com^
 ||barqueue.com^
 ||barrelcider.com^
+||bartcons.com^
 ||baseboosters.com^
 ||basketballbelieve.com^
 ||baskettexture.com^
@@ -7819,6 +7822,7 @@ omni.soundestlink.com$image
 ||joyfulharbor.com^
 ||joyouspool.com^
 ||joyoussurprise.com^
+||jqioregvpxgte.website^
 ||jubilantaura.com^
 ||jubilantcanyon.com^
 ||jubilantglimmer.com^
@@ -7877,6 +7881,7 @@ omni.soundestlink.com$image
 ||lazyexplore.com^
 ||lazylivingroom.com^
 ||lazypecan.com^
+||ldrws.com^
 ||leafpilot.com^
 ||leaplunchroom.com^
 ||leapquick.com^
@@ -8259,6 +8264,7 @@ omni.soundestlink.com$image
 ||pluckypocket.com^
 ||pluckyzone.com^
 ||pluggedlabs.com^
+||pluxpdzouwubj.space^
 ||pocketfaucet.com^
 ||podname.com^
 ||poemprompt.com^
@@ -9109,6 +9115,7 @@ omni.soundestlink.com$image
 ||viewresource.com^
 ||vilenexus.com^
 ||violetdemise.com^
+||viowrel.com^
 ||viralfoodie.net^
 ||virtualvincent.com^
 ||vividcache.com^
@@ -55344,6 +55351,7 @@ aliexpress.com,aliexpress.ru,aliexpress.us##+js(set, navigator.bluetooth, undefi
 ||sidecar.unext.jp/track/
 ||so-zou.jp/js/ga.js
 ||socialxup.com/api/sale-accounts
+||socialxup.com/api/track
 ||softonic.jp/web-stats
 ||ssai.api.streaks.jp/*/ad_info?
 ||stats.nhk.or.jp^
