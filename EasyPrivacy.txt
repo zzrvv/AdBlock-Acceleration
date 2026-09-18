@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609181558
+! Version: 202609182021
 ! Title: EasyPrivacy
-! Last modified: 18 Sep 2026 15:58 UTC
+! Last modified: 18 Sep 2026 20:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b304a688c0401b34ade2f3a1a16a5e781d74370d
+! Commit: 2e09c5f92fc2b893ce9834186eb45ea193a13710
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -6956,6 +6956,7 @@ omni.soundestlink.com$image
 ||boundlessargument.com^
 ||boundlessbrake.com^
 ||boundlessveil.com^
+||bowlershut.com^
 ||boxandcover.com^
 ||brainybasin.com^
 ||branchborder.com^
@@ -7965,6 +7966,7 @@ omni.soundestlink.com$image
 ||makesimpact.com^
 ||maliciousmusic.com^
 ||manamoment.com^
+||manateemotors.com^
 ||manydiamonds.com^
 ||manyfishes.com^
 ||mapbasin.com^
