@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609230342
+! Version: 202609231049
 ! Title: EasyPrivacy
-! Last modified: 23 Sep 2026 03:42 UTC
+! Last modified: 23 Sep 2026 10:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: ecd644b456bbdb7f8927894773c41757cb3c07b3
+! Commit: 6adbc29da3369f23f6614bbee561d97cd43c9346
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -12787,6 +12787,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ssa.stepstone.com^
 ||ssc.shopstyle.com/collective.min.js
 ||ssl-images-amazon.com/images/I/31YXrY93hfL.js$domain=imdb.com
+||ssl.ceneo.pl/ct/
 ||ssr.streamrail.net^
 ||st.cdnco.us^
 ||st.linkfire.com^
@@ -13703,6 +13704,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dtym7iokkjlif.cloudfront.net/dough/
 ||du4rq1xqh3i1k.cloudfront.net^
 ||duu8lzqdm8tsz.cloudfront.net^
+||duvkog4eyegl0.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
 ! Goatcounter CNAMES https://github.com/AdguardTeam/cname-trackers/issues/99
@@ -16977,6 +16979,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.dailymail.co.uk^
 ||t.deepnote.com^
 ||t.factorform.com^
+||t.flickr.com^
 ||t.freelancer.com^
 ||t.gazetteer.co^
 ||t.goodchop.com^
