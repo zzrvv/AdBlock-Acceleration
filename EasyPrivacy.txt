@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609270411
+! Version: 202609271128
 ! Title: EasyPrivacy
-! Last modified: 27 Sep 2026 04:11 UTC
+! Last modified: 27 Sep 2026 11:28 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 2e18f4bc3abec8caadf5097f6b1c6feb8e03ad6b
+! Commit: b2c64f63704e0ea3e08b81ebd5fcf43e997bde0b
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -2295,7 +2295,7 @@
 /stats-js.cgi?
 /stats-listener.js
 /stats-tracking.js
-/stats.*/event$domain=~stats.prisamedia.cl
+/stats.*/event$domain=~stats.prisamedia.cl|~stats.uniquetma.com
 /stats.*/hits/*
 /stats.*/tracker.
 /stats.asp?id
