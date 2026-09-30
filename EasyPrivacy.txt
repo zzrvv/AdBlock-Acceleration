@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609301155
+! Version: 202609302149
 ! Title: EasyPrivacy
-! Last modified: 30 Sep 2026 11:55 UTC
+! Last modified: 30 Sep 2026 21:49 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 83707a9a2d6a890dcf2eaf69c928231388356e7b
+! Commit: 72c3e1b00d5e864646cfe8915cea26a0f9bafde9
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7383,6 +7383,7 @@ omni.soundestlink.com$image
 ||echotop.com^
 ||echoturkey.com^
 ||economysoil.com^
+||edshowpigs.com^
 ||educationcar.com^
 ||effervescentcoral.com^
 ||effervescentvista.com^
@@ -13143,6 +13144,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.btdmp.com^
 ||track.coherentpath.com^
 ||track.contently.com^
+||track.convertfox.com^
 ||track.cordial.io^
 ||track.digitalriver.com^
 ||track.emerse.com^
@@ -15120,6 +15122,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.livasoft.com.tr^
 ||tracker.adcluster.com.tr^
 ||traffic.wdc.center^
+||trafik.koopit.ist^
 ||wa.wawlabs.com^
 ||web.tv/analytics/
 ! Ukranian
