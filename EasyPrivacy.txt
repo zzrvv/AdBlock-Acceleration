@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202609292151
+! Version: 202609300429
 ! Title: EasyPrivacy
-! Last modified: 29 Sep 2026 21:51 UTC
+! Last modified: 30 Sep 2026 04:29 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 74418892c17c0ce0f051529ace4fa7d3ae7e8704
+! Commit: 27f80c451ef2c07a072e506b299fd4f3e492d054
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -9314,6 +9314,7 @@ omni.soundestlink.com$image
 ||paradehomeandgarden.com/.api/admiral
 ||paradepets.com/.api/admiral
 ||skateboarding.com/.api/admiral
+||succeedscene.com^$domain=theguardian.com
 ||surfer.com/.api/admiral
 ||thespun.com/.api/admiral
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_notifications.txt ***
@@ -16419,7 +16420,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||myspace.com/beacon/
 ||na.groupondata.com^
 ||naiz.eus/visits
-||namethatporn.com/assets/imgs/1x1.gif
 ||narkive.com/ajax/TelemV2?
 ||nasi.etherscan.com^
 ||nature.com/platform/track/
