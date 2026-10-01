@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fs3+Yz8bmsvAbaU1JJlO3w
-! Version: 202609302153
+! Checksum: HAS0C/TW3a3ucirnjh9/yA
+! Version: 202610010432
 ! Title: Fanboy's Social Blocking List
-! Last modified: 30 Sep 2026 21:53 UTC
+! Last modified: 01 Oct 2026 04:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -11961,6 +11961,7 @@ todayonline.com##.subcription-two
 scrippsnews.com##.subheader
 npr.org,symmetrymagazine.org,thefinance.sg,thefulcrum.us,topbet.eu##.subscribe
 jasonwatmore.com##.subscribe-buttons
+tradersunion.com##.subscribe-news
 hindustantimes.com##.subscribe-social
 newsandguts.com##.subscribeBar
 newsclick.in##.subscribeTelegram
