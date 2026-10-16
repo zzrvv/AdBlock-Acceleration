@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610160328
+! Version: 202610161047
 ! Title: EasyPrivacy
-! Last modified: 16 Oct 2026 03:28 UTC
+! Last modified: 16 Oct 2026 10:47 UTC
 ! Expires: 4 days (update frequency)
-! Commit: dac044483f19d4a4ce18ed0e00686a04d219b838
+! Commit: 4cfe3140890d08169117b358c96ae7b94bab4b38
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7490,6 +7490,7 @@ omni.soundestlink.com$image
 ||exportdialog.com^
 ||extracover.net^
 ||extractobservation.com^
+||extraliner.com^
 ||extralocker.com^
 ||extramonies.com^
 ||exuberantedge.com^
@@ -15193,6 +15194,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sdk.mdznconnect.com/data-collector/
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
+||tp.myikas.com^
 ||track.livasoft.com.tr^
 ||tracker.adcluster.com.tr^
 ||traffic.wdc.center^
@@ -15791,6 +15793,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dealdash.com/tracker-json
 ||dealnews.com/lw/ul.php
 ||deepl.com/web/statistics
+||deepweb.net/api/event
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
 ||deliveroo.com^*/events
 ||deliveryrank.com/drapp070eb2deb1932e2101e6.js
