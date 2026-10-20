@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610201101
+! Version: 202610201618
 ! Title: EasyPrivacy
-! Last modified: 20 Oct 2026 11:01 UTC
+! Last modified: 20 Oct 2026 16:18 UTC
 ! Expires: 4 days (update frequency)
-! Commit: b288b97a131858b3ed1dabdcc89d1d59ac5b62fc
+! Commit: ef377ec1b35c75a36f96e6420c31a21123295448
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -7681,6 +7681,7 @@ omni.soundestlink.com$image
 ||gemlithium.com^
 ||gemorganic.com^
 ||generalprose.com^
+||genomicswire.com^
 ||getbanquet.com^
 ||getbendyyoga.com^
 ||getwagtail.com^
@@ -7826,6 +7827,7 @@ omni.soundestlink.com$image
 ||hoorayplay.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
+||hostchutney.com^
 ||howdoesthislook.com^
 ||hubcapcafe.net^
 ||humbleroots.net^
@@ -8193,6 +8195,7 @@ omni.soundestlink.com$image
 ||newscompiler.com^
 ||newsuccesssecret.com^
 ||newsvehicles.com^
+||nextsmarty.com^
 ||nexttopchef.com^
 ||nicefollows.com^
 ||nicehuh.com^
@@ -8764,6 +8767,7 @@ omni.soundestlink.com$image
 ||skillfuldrop.com^
 ||skillfullyfrugal.com^
 ||skillpuppy.com^
+||skinnytea.net^
 ||skisofa.com^
 ||skullmagnets.com^
 ||skullteeth.com^
