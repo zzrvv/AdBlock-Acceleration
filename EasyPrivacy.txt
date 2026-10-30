@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202610300443
+! Version: 202610301210
 ! Title: EasyPrivacy
-! Last modified: 30 Oct 2026 04:43 UTC
+! Last modified: 30 Oct 2026 12:10 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 8cd3592cf8955d956125d8a4ad024de3df3fbfdb
+! Commit: 484e8bf64b9d155c36700df585132f73161aacaf
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -15596,6 +15596,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
 ||bicp-analytics.postscript.io^
+||bifrost-api.hotstar.com^
 ||bigw.com.au/api/event/
 ||bigw.com.au/events/
 ||bing.com/fd/ls/GLinkPing.aspx?
