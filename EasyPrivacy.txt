@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611030034
+! Version: 202611031333
 ! Title: EasyPrivacy
-! Last modified: 03 Nov 2026 00:34 UTC
+! Last modified: 03 Nov 2026 13:33 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 60720af071018b921ecc88657c82eb00466f4b8b
+! Commit: 0fb6067f8a6946c2e9e8f384e6d3fb2a1619352a
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8113,6 +8113,7 @@ omni.soundestlink.com$image
 ||meadowlullaby.com^
 ||measlymiddle.com^
 ||meatydime.com^
+||medanysew.com^
 ||meddleplant.com^
 ||mediamaker.net^
 ||mediatescarf.com^
@@ -56434,6 +56435,7 @@ search.rakuten.co.jp##+js(aeld, mouseup, sendClickEvent)
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|corsair.com|furniturevillage.co.uk|luggagehero.com
 @@||hobbyking.com^*/gtm.js$script,~third-party
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
+@@||hyundaicanada.com/scripts/analytics/analytics.js$script,~third-party
 @@||identity.mparticle.com^$xmlhttprequest
 @@||ignitetv.rogers.com/js/api/fingerprint.js$script,~third-party
 @@||ignitetv.shaw.ca/js/api/fingerprint.js$~third-party
