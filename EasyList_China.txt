@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 75RsWgWd89RXnj1VIxpmBA
-! Version: 202611111334
+! Checksum: mkp6k4dBWwMWJ/IlIZP2TA
+! Version: 202611120003
 ! Title: EasyList China
-! Last modified: 11 Nov 2026 13:34 UTC
+! Last modified: 12 Nov 2026 00:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1321,6 +1321,9 @@ newduba.cn###jq_youxi
 ||hash.trafficmanager.net^
 ||trafficmanager.net/o.js
 !
+||3pq0vah1e0.com^
+||eraf2uzhji.com^
+||multiplicator98.com^
 ||g4dgp989f.com^
 ||parallelepiped48.com^
 ||ke8me98qh.com^
