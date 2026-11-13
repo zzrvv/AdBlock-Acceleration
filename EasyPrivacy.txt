@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611122312
+! Version: 202611130527
 ! Title: EasyPrivacy
-! Last modified: 12 Nov 2026 23:12 UTC
+! Last modified: 13 Nov 2026 05:27 UTC
 ! Expires: 4 days (update frequency)
-! Commit: 184e446e5ea50c0beb4bfdd77f5079d7b3c8a301
+! Commit: 35b1ecf2234aab06f8d3e971938ef8fce3b5c8d4
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -8918,6 +8918,7 @@ omni.soundestlink.com$image
 ||skylightdata.com^
 ||slackpod.com^
 ||slaysweater.com^
+||sleepfrankly.com^
 ||slickcontent.com^
 ||slimesupplies.net^
 ||slimsense.net^
@@ -12170,6 +12171,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jobvite.com/analytics.js
 ||jotform.io/getReferrer/$third-party
 ||js.cdn.applicationinsights.io/scripts/b/ai.3.gbl.min.js
+||js.ciphera.net/script.js
 ||js.dashfi.net/dashfinet-analytics.js
 ||js.eruptr.io/epd.js
 ||js.go2sdk.com/v2/tune.js
