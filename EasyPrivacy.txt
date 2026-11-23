@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202611230618
+! Version: 202611232321
 ! Title: EasyPrivacy
-! Last modified: 23 Nov 2026 06:18 UTC
+! Last modified: 23 Nov 2026 23:21 UTC
 ! Expires: 4 days (update frequency)
-! Commit: a60a453b63018a40c2ffdc69bc4f156ab316a2c7
+! Commit: 001434c17e55923b2f3bb5e23fae29a390043744
 ! *** easylist:template_header.txt ***
 ! 
 ! Please report any unblocked adverts or problems
@@ -9402,6 +9402,7 @@ omni.soundestlink.com$image
 ||tuxedocard.com^
 ||twelvedawn.com^
 ||twentyerr.com^
+||twistboat.com^
 ||twistloss.com^
 ||twisty.net^
 ||twochihuahuas.com^
@@ -9530,6 +9531,7 @@ omni.soundestlink.com$image
 ||webspires.net^
 ||webworksworld.com^
 ||weeklycurrents.com^
+||weirdknight.com^
 ||wellbeingforce.com^
 ||wellgroomedapparel.com^
 ||wellgroomedhydrant.com^
@@ -9606,11 +9608,13 @@ omni.soundestlink.com$image
 ||yellowscissors.com^
 ||yetiminis.com^
 ||yieldingwoman.com^
+||yogatryout.com^
 ||youanonymous.com^
 ||youcandrawanything.com^
 ||yourgiftedbaby.com^
 ||yourlifedream.com^
 ||yourownexpert.com^
+||yummymacaroni.com^
 ||zanyapps.com^
 ||zapandmake.com^
 ||zephyrcatalyst.com^
@@ -9625,6 +9629,7 @@ omni.soundestlink.com$image
 ||zipperxray.com^
 ||zipthelake.com^
 ||zlp6s.pw^
+||zodiacglass.com^
 ||zonegroove.com^
 ||zonewedgeshaft.com^
 ! Generic
